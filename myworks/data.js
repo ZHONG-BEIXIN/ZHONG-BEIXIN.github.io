@@ -1,0 +1,1 @@
+var myData={designer:{name:'122',phone:'123',tag:[""],bg:'#1e2025'},gallery:[{src:"myworks/蓝朋友.jpg",w:1920,h:600},{src:"myworks/潮品新风尚.jpg",w:1920,h:600},{src:"myworks/初秋微凉.jpg",w:1920,h:600},{src:"myworks/编织时光.jpg",w:1920,h:600},]}
